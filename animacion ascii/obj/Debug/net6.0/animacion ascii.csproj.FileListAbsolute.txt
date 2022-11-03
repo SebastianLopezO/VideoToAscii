@@ -1,0 +1,15 @@
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.AssemblyInfo.cs
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\bin\Debug\net6.0\animacion ascii.exe
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\bin\Debug\net6.0\animacion ascii.deps.json
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\bin\Debug\net6.0\animacion ascii.runtimeconfig.json
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\bin\Debug\net6.0\animacion ascii.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\bin\Debug\net6.0\animacion ascii.pdb
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\refint\animacion ascii.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.pdb
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\animacion ascii.genruntimeconfig.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\animacion ascii\animacion ascii\obj\Debug\net6.0\ref\animacion ascii.dll
