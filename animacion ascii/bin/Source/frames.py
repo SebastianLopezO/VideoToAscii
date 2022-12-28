@@ -1,11 +1,14 @@
 import cv2
+import os
 
 name=input("Ingrese el nombre del video: ")
 format=input("Ingrese el formato del video: ")
 
 capture = cv2.VideoCapture("videos/"+name+"."+format)
 cont = 0
-path = 'frames/'
+os.mkdir(name)
+path = name+"/"
+
 
 while (capture.isOpened()):
     ret, frame = capture.read()
